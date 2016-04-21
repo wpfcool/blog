@@ -59,7 +59,7 @@ author:
   intro_line1:  "学无止境"    ## your introduction on the bottom of the page
   intro_line2:  "————用勤奋学习的方式去适应环境."  ## the 2nd line
   weibo: 1878778477     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier:     ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
+  weibo_verifier: ae597523    ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
@@ -82,12 +82,12 @@ toc:
 ### Links
 links:
   码农圈: https://coderq.com,一个面向程序员交流分享的新一代社区
-  Jark's Blog: http://wuchong.me
+  Tabby's Notes: http://blog.chengjimin.com
 
 
 
 #### Comment
-duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.
+duoshuo_shortname: wenpeifangweb    ## e.g. wuchong   your duoshuo short name.
 disqus_shortname:     ## e.g. wuchong   your disqus short name.
 
 #### Share button
