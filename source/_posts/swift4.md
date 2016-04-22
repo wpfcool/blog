@@ -1,7 +1,7 @@
 ---
 title: swift开发(四) 枚举与结构体
 date: 2016-04-20 16:59:14
-tags: swift
+tags: [swift,IOS]
 ---
 
 ## 枚举

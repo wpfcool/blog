@@ -1,7 +1,7 @@
 ---
 title: swift开发（三） 对象与类
 date: 2016-04-20 16:48:00
-tags: swift
+tags: [swift,IOS]
 ---
 
 ***

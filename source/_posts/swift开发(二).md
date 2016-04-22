@@ -1,7 +1,7 @@
 ---
 title: swift开发（二） 闭包
 date: 2016-04-20 14:53:50
-tags: swift
+tags: [swift,IOS]
 ---
 
 ***
