@@ -4,7 +4,7 @@ date: 2016-05-03 14:06:29
 tags: [3DTouch,IOS]
 ---
 
-#Getting start
+# Getting start
 
 ## Home screen quick actions
 3D Touch 能够在Home界面的图标上，通过按压在图标的周围显示一个快捷操作（shortcuts）的菜单，通过这个菜单，我们能够更加快速直接的进入某项功能。
