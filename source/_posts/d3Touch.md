@@ -103,13 +103,15 @@ typedef enum UIApplicationShortcutIconType : NSInteger {
 ```
 - (nullable UIViewController *)previewingContext:(id <UIViewControllerPreviewing>)previewingContext viewControllerForLocation:(CGPoint)location
 
-
 {
-    NSIndexPath * indexPath = [_tableView indexPathForRowAtPoint:location];
+    
+   CGPoint  pp =  [self.view convertPoint:location toView:_tableView];
+    NSIndexPath * indexPath = [_tableView indexPathForRowAtPoint:pp];
     UITableViewCell * celll = [_tableView cellForRowAtIndexPath:indexPath];
+    NSLog(@"%f----%f",celll.frame.origin.x,celll.frame.origin.y);
     DetailViewController * detail = [[DetailViewController alloc]init];
     detail.number =_list[indexPath.row];
-    previewingContext.sourceRect = celll.frame;
+    previewingContext.sourceRect = [_tableView convertRect:celll.frame toView:self.view];;
     
     return detail;
     
