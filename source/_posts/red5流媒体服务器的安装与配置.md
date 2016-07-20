@@ -13,22 +13,22 @@ tags: [red5,linux]
 yum install java-1.7.0-openjdk  
 
 ``` 
-</br>
+
 
 2、 下载 red5-server-1.0.6-RELEASE-server.tar.gz 
 [下载地址](https://github.com/Red5/red5-server/releases)
 选择 选择red5-server-1.0.6-RELEASE-server.tar.gz，
 解压到 /usr/local/red5 
-</br>
 
-3、 设置为可执行<br>  
+
+3、 设置为可执行 
 
 ```
 cd /usr/local/red5  chmod +x *.sh  
 
 ```
 
-4、 安装  </br> 
+4、 安装  
 
 ```
 /red5.sh
@@ -37,10 +37,11 @@ cd /usr/local/red5  chmod +x *.sh
 
 5、 添加服务启动项
    
-   a、 编辑启动脚本 <br> 
+   a、 编辑启动脚本
    
    ```
    vi /etc/init.d/red5`
+   
    ```
    
 ```
@@ -99,7 +100,7 @@ esac
 exit $RETVAL 
 
 ```
-</br>
+
 b、将启动脚本添加到服务
 
 ```
