@@ -7,7 +7,7 @@ title: 温培方的博客
 subtitle: 青春时光转眼即逝
 description:
 author: 温培方
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jacman
+theme: hexo-theme-next-master
 stylus:
   compress: true
 # Deployment
