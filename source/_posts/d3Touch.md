@@ -1,7 +1,7 @@
 ---
 title: 3dTouch
 date: 2016-05-03 14:06:29
-tags: [3DTouch,IOS]
+tags: [3DTouch,iOS]
 ---
 
 # Getting start

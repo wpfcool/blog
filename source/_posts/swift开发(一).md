@@ -1,7 +1,7 @@
 ---
 title: swift开发(一) 基础
 date: 2016-04-20 10:54:50
-tags: [swift,IOS]
+tags: [swift,iOS]
 ---
 
 # 常量和变量 
