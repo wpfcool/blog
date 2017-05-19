@@ -65,6 +65,9 @@ menu_icons:
 
 
 
+reward_comment: 您的支持将鼓励我继续创作！
+wechatpay: https://thumbnail0.baidupcs.com/thumbnail/0e48a9ce8948dc8b37e8a0de1931371e?fid=588999567-250528-952338862339621&time=1495098000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-gv3ckQ%2BrcllO%2B2bURJfdLCYdTSI%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=3194100132862454762&dp-callid=0&size=c710_u400&quality=100
+
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
@@ -245,7 +248,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # ---------------------------------------------------------------
