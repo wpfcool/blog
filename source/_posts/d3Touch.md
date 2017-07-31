@@ -138,5 +138,13 @@ typedef enum UIApplicationShortcutIconType : NSInteger {
 }
 ```
 
+
+>Icon尺寸:
+
+>35x35 (1x)  
+>70x70 (2x)  
+>105x105 (3x)  
+
+
 # [代码](https://github.com/wpfcool/3DTouch.git)
 
