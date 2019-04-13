@@ -1,5 +1,5 @@
 ---
-title: javaScripte预编译
+title: javaScript预编译
 date: 2019-04-13 14:09:51
 tag:  javaScript
 ---
